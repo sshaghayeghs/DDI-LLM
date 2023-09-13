@@ -26,7 +26,7 @@ You need to have `Python >= 3.8` and install the following main packages:
 ```
 # 2. Pipeline
 * 2.1. [**Language-based Drug Information Embedding**](https://github.com/sshaghayeghs/DDI-LLM/tree/main/Get%20Embedding)
-* 2.2. **Multi-View Representation Fusion and Predicting DDI**
+* 2.2. [**Multi-View Representation Fusion and Predicting DDI**](https://github.com/sshaghayeghs/DDI-LLM/blob/main/PyG__link_pred_DDI.ipynb)
   
 <p align="center">
   <img width="500" height="800" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/DDI_LM.png">
@@ -49,7 +49,7 @@ You need to have `Python >= 3.8` and install the following main packages:
   |Has isolated nodes|False|False|
   |Has self-loops|False| False|
 # 3. Results
-**AUROC BioSnap**
+**`AUROC BioSnap`**
 | Embedding    | 0.01  | 0.001  | 0.0001| 0.0002  | 0.0003 | 1.00E-05 |
 | ------------ | ------| ------- | -------| ------- | ------ | -------|
 | No Feature   | 0.8594| 0.8721| 0.8717| 0.8702 | 0.8758 | 0.7349 |
@@ -67,7 +67,7 @@ You need to have `Python >= 3.8` and install the following main packages:
 | LLaMA2Desc   | 0.994 | 0.9884| 0.9254| 0.9447| 0.9620 | 0.8284 |
 
 
-**AUPR BioSnap**
+**`AUPR BioSnap`**
 | Embedding    | 0.01       | 0.001      | 0.0001     | 0.0002     | 0.0003     | 1.00E-05   |
 | ------------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | No Feature   | 0.8422 | 0.8485 | 0.84913 | 0.8442 | 0.8586 | 0.8215 |
@@ -84,7 +84,7 @@ You need to have `Python >= 3.8` and install the following main packages:
 | LLaMADesc    | 0.9941 | 0.9850 | 0.9447 | 0.9499| 0.95771 | 0.8930 |
 | LLaMA2Desc   | 0.9924 | 0.9858 | 0.9306 | 0.9455 | 0.9595 | 0.8510 |
 
-**AUROC DrugBank**
+**`AUROC DrugBank`**
 | Embedding    | 0.01       | 0.001      | 0.0001     | 0.0002     | 0.0003     | 1.00E-05   |
 | ------------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | No Feature   | 0.8753 | 0.8775 | 0.8773 | 0.8767 | 0.8751| 0.8743 |
@@ -101,7 +101,7 @@ You need to have `Python >= 3.8` and install the following main packages:
 | LLaMADesc    | 0.9334| 0.9391 | 0.9404 | 0.9374 | 0.9456  | 0.9379 |
 | LLaMA2Desc   | 0.9442| 0.9325  | 0.9401 | 0.9347 | 0.9380 | 0.9368 |
 
-**AUPR DrugBank**
+**`AUPR DrugBank`**
 | Embedding    | 0.01       | 0.001      | 0.0001     | 0.0002     | 0.0003     | 1.00E-05   |
 | ------------ | ----- | ------ | ------ | ------ | ------ | -------|
 | no_feature   | 0.8569 | 0.8651 | 0.8600| 0.8622 | 0.8569 | 0.8555 |
@@ -118,9 +118,20 @@ You need to have `Python >= 3.8` and install the following main packages:
 | LLaMADesc    | 0.9337 | 0.9358 | 0.9361| 0.9325   | 0.9446 | 0.9347 |
 | LLaMA2Desc   | 0.9452 | 0.9350 | 0.9407 | 0.9369 | 0.9403 | 0.9420 |
 
+* Study on `Learning Rate`
+  
+  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/auc-biosnap-lr.png">
+
+  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/pr-biosnap-lr.png">
+
+  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/auc-drugbank-lr.png">
+
+  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/pr-drugbank-lr.png">
+
+
 
 # 4. Visualization
+
 <p align="center">
   <img width="800" height="600" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/GridVis.png">
 </p>
-
