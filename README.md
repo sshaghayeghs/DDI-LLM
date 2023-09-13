@@ -24,4 +24,5 @@ You need to have `Python >= 3.8` and install the following main packages:
 !pip install gensim
 !pip install git+https://github.com/samoturk/mol2vec
 !pip install transformers
+!pip install openai
 ```
