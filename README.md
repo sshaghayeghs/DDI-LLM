@@ -9,11 +9,9 @@ We start by harnessing these advanced language models to generate embeddings for
 
 Our experiments reveal that the utilization of language-based drug embeddings in combination with DDI structure embeddings can yield accuracy levels `comparable` to state-of-the-art methods in DDI prediction.
 
-<p align="center">
-  <img width="500" height="800" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/DDI_LM.png">
-</p>
 
-# 1. Requirments
+
+# 1. Requirements
 You need to have `Python >= 3.8` and install the following main packages:
 ```
 !pip install torch_geometric
@@ -26,3 +24,11 @@ You need to have `Python >= 3.8` and install the following main packages:
 !pip install transformers
 !pip install openai
 ```
+# 2. Pipeline
+<p align="center">
+  <img width="500" height="800" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/DDI_LM.png">
+</p>
+
+# 3. Results
+
+# 4. Visualisation
