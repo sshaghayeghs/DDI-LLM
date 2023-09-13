@@ -49,6 +49,9 @@ You need to have `Python >= 3.8` and install the following main packages:
   |Has isolated nodes|False|False|
   |Has self-loops|False| False|
 # 3. Results
+
+Following are the performance of the models on two different datasets using different `learning rates`
+
 **`AUROC BioSnap`**
 | Embedding    | 0.01  | 0.001  | 0.0001| 0.0002  | 0.0003 | 1.00E-05 |
 | ------------ | ------| ------- | -------| ------- | ------ | -------|
