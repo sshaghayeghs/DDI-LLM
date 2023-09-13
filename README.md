@@ -31,4 +31,8 @@ You need to have `Python >= 3.8` and install the following main packages:
 
 # 3. Results
 
-# 4. Visualisation
+# 4. Visualization
+<p align="center">
+  <img width="800" height="600" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/GridVis.png">
+</p>
+
