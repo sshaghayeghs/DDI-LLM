@@ -120,13 +120,13 @@ You need to have `Python >= 3.8` and install the following main packages:
 
 * Study on `Learning Rate`
   
-  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/auc-biosnap-lr.png">
+  <img width="300" height="300" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/auc-biosnap-lr.png">
 
-  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/pr-biosnap-lr.png">
+  <img width="300" height="300" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/pr-biosnap-lr.png">
 
-  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/auc-drugbank-lr.png">
+  <img width="300" height="300" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/auc-drugbank-lr.png">
 
-  <img width="400" height="400" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/pr-drugbank-lr.png">
+  <img width="300" height="300" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/pr-drugbank-lr.png">
 
 
 
