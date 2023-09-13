@@ -25,8 +25,8 @@ You need to have `Python >= 3.8` and install the following main packages:
 !pip install openai
 ```
 # 2. Pipeline
-* 2.1. [Language-based Drug Information Embedding](https://github.com/sshaghayeghs/DDI-LLM/tree/main/Get%20Embedding)
-* 2.2. Multi-View Representation Fusion and Predicting DDI
+* 2.1. [**Language-based Drug Information Embedding**](https://github.com/sshaghayeghs/DDI-LLM/tree/main/Get%20Embedding)
+* 2.2. **Multi-View Representation Fusion and Predicting DDI**
   
 <p align="center">
   <img width="500" height="800" src="https://github.com/sshaghayeghs/DDI-LLM/blob/main/Image/DDI_LM.png">
