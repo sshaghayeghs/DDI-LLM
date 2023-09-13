@@ -5,7 +5,7 @@
 
 This paper explores the application of `large language-based` embeddings, including `BERT`, `GPT`, `LLaMA`, and `LLaMA2`, within the context of `Graph Convolutional Networks (GCN)` to enhance `DDI prediction`.
 
-We start by harnessing these advanced language models to generate embeddings for drug chemical structures and drug descriptions, providing a more comprehensive representation of drug characteristics. These embeddings are subsequently integrated into a DDI network, with GCN employed for `link prediction`. We utilize BERT, GPT, and LLaMA embeddings to improve the accuracy and effectiveness of predicting drug interactions within this network.
+We start by harnessing these advanced language models to generate embeddings for drug chemical structures and drug descriptions, providing a more comprehensive representation of drug characteristics. These embeddings are subsequently integrated into a DDI network, with GCN employed for `link prediction`. We utilize BERT, GPT, LLaMA and LLaMA2 embeddings to improve the accuracy and effectiveness of predicting drug interactions within this network.
 
 Our experiments reveal that the utilization of language-based drug embeddings in combination with DDI structure embeddings can yield accuracy levels `comparable` to state-of-the-art methods in DDI prediction.
 
