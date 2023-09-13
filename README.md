@@ -1,4 +1,4 @@
-# `DDI-LLM:` Exploring Language-based Drug Chemical Structure Embedding Methods for Drug-Drug Interaction Prediction via Graph Convolutional Networks
+# `DDI-LLM:` Drug-Drug Interaction Prediction: Experimenting With Large Language-Based Drug Information Embedding For Multi-View Representation Learning
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qoXDJjS__UNPf93rh6i-HtLQlo0sFXoC?usp=sharing)
 
 `Drug-Drug Interactions (DDIs)` can arise when multiple drugs are used to treat complex or concurrent medical conditions, potentially leading to alterations in the way these drugs work. Consequently, predicting DDIs has become a crucial endeavor within the field of medical machine learning, addressing a critical aspect of healthcare.
